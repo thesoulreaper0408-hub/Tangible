@@ -1,0 +1,6 @@
+{
+  "name": "Tangible",
+  "description": "Real-time WebGL2 photorealistic swimming pool simulation with shallow-water wave physics, chromatic caustics, SDF raymarching, and buoyant objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
